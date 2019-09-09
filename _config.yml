@@ -1,11 +1,11 @@
 # Site settings
 author: Mathew Menachery
-title: 
+title: The Purple Knox
 header-img: img/home-bg.png
 email: mathew.menachery@gmail.com
 copyright_name: Mathew Menachery
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The Personal Notes of a Knower of Things and Doer of Deeds
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  menach123
